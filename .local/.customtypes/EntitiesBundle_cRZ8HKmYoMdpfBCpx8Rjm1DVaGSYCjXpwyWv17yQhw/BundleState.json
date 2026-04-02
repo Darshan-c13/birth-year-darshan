@@ -1,0 +1,13 @@
+{
+  "assemblyStates": {
+    "C467853384A_create_r.ZX6Ms2s22rO1cHd374W4WBl2": {
+      "namespace": "UiPath.IntegrationService.Activities.SWEntities.C467853384A_create_repos.Bundle",
+      "providerName": "CustomEntities",
+      "key": {
+        "name": "UiPath.IntegrationService.Activities.SWEntities.C467853384A_create_repos",
+        "hash": "STBLUTdDZ0drUDMydE1kUzZiWHA4TVNScXdxaldObXdKNHF0RkhHQWhTSmZGRzRhTjEvVjRGQnVtVGsxN1ozTUdmUHIzMEFNK05mVk1TS01ocFNCOHc9PQ",
+        "assemblyName": "C467853384A_create_r.ZX6Ms2s22rO1cHd374W4WBl2"
+      }
+    }
+  }
+}
